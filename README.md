@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:F1948A&height=220&section=header&text=Inho%20Jung&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Web%20Full-Stack%20Developer&descAlignY=55&descAlign=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:F1948A&height=220&section=header&text=Inho%20Jung&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
 <div align="center">
 
 <br/>
 
-### ⏳ "사용자의 시간을 아껴주는 개발자를 꿈꿉니다"
+### ⏳ "사용자의 시간을 아껴주는 개발자가 되겠습니다"
 
-새로운 기술을 통해 문제를 효율적으로 해결하는 방법을 고민하며,<br/>
-**기계공학적 논리력**과 **SW 개발 역량**을 융합해 성장하고 있습니다.
+사용자 경험(UX)을 최우선으로 생각하며,<br/>
+**백엔드 로직을 이해하는 프론트엔드 개발자**로 성장하고 있습니다.
 
 <br/>
 
@@ -37,13 +37,13 @@
 
 <div align="center">
 
-### 🎨 Frontend
+### 🎨 Frontend (Main)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-### ⚡ Backend
+### ⚡ Backend (Experience)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
@@ -61,7 +61,7 @@
 ## 🌱 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jih19984/jih19984/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <img src="https://ghchart.rshah.org/409ba5/jih19984" alt="jih19984's Github chart" />
 </div>
 
 <br/>
