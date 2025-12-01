@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:F1948A&height=220&section=header&text=Hello,%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=I'm%20Inho%20Jung&descAlignY=55&descAlign=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,100:F1948A&height=220&section=header&text=Inho%20Jung&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Web%20Full-Stack%20Developer&descAlignY=55&descAlign=60" width="100%" />
 </div>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=363636&center=true&vCenter=true&width=500&lines=Dreaming+of+being+a+developer;Who+saves+users'+time;Always+learning+and+growing" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,8 +23,8 @@
 
 | Period | Role & Organization | Description |
 |:---:|:---:|:---|
-| **2025.07 ~ Now** | **SSAFY 14기 교육생**<br/>*(Samsung Software Academy For Youth)* | • **Web Full-stack (Python, Vue.js) 과정 수강**<br/>• 알고리즘 및 CS 기초 학습<br/>• 팀 프로젝트 기반 애자일 협업 경험 축적 |
-| **2023 ~ 2025.06** | **AI Model Evaluator**<br/>*(Outlier - Scale AI)* | • **LLM 품질 평가 및 RLHF 데이터 구축**<br/>• 모델 응답 비교/선호도 평가 및 영문 피드백 작성<br/>• *보안 서약에 따라 세부 프로젝트명 비공개* |
+| **2025.07 ~ Now** | **SSAFY 14기 교육생**<br/>*(Samsung Software Academy For Youth)* | • **Web Full-stack (Python, Vue.js) 과정 수강**<br/>• 알고리즘 및 CS 기초 학습 |
+| **2023 ~ 2025.06** | **AI Model Evaluator**<br/>*(Outlier - Scale AI)* | • **LLM 품질 평가 및 RLHF 데이터 구축**<br/>• 모델 응답 비교/선호도 평가 및 영문 피드백 작성<br/>• AI 모델의 안전성·품질 개선을 위한 평가 수행 |
 | **2017 ~ 2023** | **금오공과대학교** | • **기계시스템공학과 졸업**<br/>• 공학적 사고 및 시스템 설계 기초 함양 |
 
 </div>
@@ -60,13 +58,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jih19984&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jih19984&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
-</div>
+## 🌱 Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jih19984/jih19984/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
@@ -83,4 +75,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&fontSize=20" height="35"/>
   </a>
   <a href="https://instagram.com/ino_stars">
-    <img src
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="35"/>
+  </a>
+</div>
+<br/>
